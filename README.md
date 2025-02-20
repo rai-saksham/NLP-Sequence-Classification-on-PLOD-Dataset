@@ -1,7 +1,7 @@
 # NLP Sequence Classification on PLOD-CW Dataset
 
 ## Project Overview
-This project is an individual coursework submission for the **Natural Language Processing (NLP) COMM061** module at the University of Surrey. The primary objective is **sequence classification and labeling** for abbreviation detection in scientific texts using the **PLOD-CW dataset**.
+This project is an individual coursework submission for the **Natural Language Processing (NLP)** module at the University of Surrey. The primary objective is **sequence classification and labeling** for abbreviation detection in scientific texts using the **PLOD-CW dataset**.
 
 The project explores different **data preprocessing techniques**, NLP models, **hyperparameter tuning**, and **performance evaluations** to determine the most effective approach for abbreviation detection.
 
