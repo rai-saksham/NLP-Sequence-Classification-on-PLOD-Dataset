@@ -133,8 +133,6 @@ Ensure you have **Python 3.8+** installed.
 ## Author
 - **Saksham Ashwini Rai**  
   - MSc Artificial Intelligence, University of Surrey  
-  - URN: 6806149  
-  - Email: sr01902@surrey.ac.uk  
 
 ---
 
@@ -142,7 +140,4 @@ Ensure you have **Python 3.8+** installed.
 This project is for educational purposes and is licensed under **MIT License**.
 
 ---
-
-## Acknowledgments
-Special thanks to **Dr. [Professor's Name]** for guidance and to the University of Surrey for providing resources for this coursework.
 
