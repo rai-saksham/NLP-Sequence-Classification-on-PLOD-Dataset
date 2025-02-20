@@ -60,13 +60,10 @@ Ensure you have **Python 3.8+** installed.
    pip install -r requirements.txt
    ```
 4. Run the script for training the model:
-   ```bash
-   python train.py
-   ```
-5. Evaluate the model:
-   ```bash
-   python evaluate.py
-   ```
+   Run Train section in ipynb file
+   
+6. Evaluate the model:
+   Run the evaluation section in ipynb file
 
 ---
 
